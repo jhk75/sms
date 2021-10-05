@@ -1,4 +1,6 @@
+#
 #Sending sms via CLI. Example: python3 sms.py 0547000000 test
+#
 
 import time
 import os

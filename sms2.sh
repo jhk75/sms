@@ -1,6 +1,7 @@
 #!/bin/bash
 # AT+CMGS="num" + ENTER + "Message" + ctrl+Z and send the sms to the num
 # determine device modem, we use /dev/ttyUSB0 for this example
+# Example: ./sms2.sh 0547000000 test1
  
 # Modem device
 DEV=/dev/ttyUSB0
